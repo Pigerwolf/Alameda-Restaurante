@@ -116,17 +116,22 @@ a{
 }
 
 .header1{
-    background-image: url("https://i.postimg.cc/pVwYPntc/prato.jpg");
-    background-size: cover;
+    background-image: url("https://th.bing.com/th/id/OIP.NCeqnZY2NC4DHe0TNSofUgHaFX?rs=1&pid=ImgDetMain");
+    background-size:cover ;
 }
 
 .header2{
-    background-image: url("https://i.postimg.cc/DfJPVPRb/bebidas.jpg");
+    background-image: url("https://img.menzig.es/a/1000/1605-h2.jpg");
     background-size: cover;
 }
 
 .header3{
     background-image: url("https://i.postimg.cc/fTY7yTzz/sobremesa.jpg");
+    background-size: cover;
+}
+
+.header4{
+    background-image: url("https://bing.com/th?id=OSK.0382ec4efbdf34782ef1354caf3b41b5");
     background-size: cover;
 }
 
