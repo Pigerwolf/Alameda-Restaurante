@@ -27,7 +27,7 @@ a{
 .home{
 
     background-image: url("https://www.visitasiguenza.es/wp-content/uploads/2023/03/Alameda-7-980x654.jpg");
-    background-size:cover;
+    background-size: cover;
     background-repeat: no-repeat;
     margin-top: 5%;
     min-height: 32rem;
@@ -132,6 +132,16 @@ a{
 
 .header4{
     background-image: url("https://bing.com/th?id=OSK.0382ec4efbdf34782ef1354caf3b41b5");
+    background-size: cover;
+}
+
+.header5{
+    background-image: url("https://th.bing.com/th/id/OIP.mbGdOC2YD3eAW2TIzJjFxAHaE8?rs=1&pid=ImgDetMain");
+    background-size: cover;
+}
+
+.header6{
+    background-image: url("https://dressings-sauces.org/wp-content/uploads/2018/10/cajunchickensalad_176389079-min.jpg"); 
     background-size: cover;
 }
 
