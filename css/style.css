@@ -62,7 +62,7 @@ a{
 .aside-float{
     text-align: right;
     width: 20%;
-    padding: 15px;
+    padding: 10px;
 }
 
 .nav-side{
@@ -72,7 +72,7 @@ a{
 
 .nav-side a{
     color: #f2f2f2;
-    font-size: 1.2em;
+    font-size: 0.9rem;
     display: block;
     padding: 10px;
 }
@@ -80,6 +80,13 @@ a{
 .nav-side img{
     vertical-align: middle;
     padding-left: 0px;
+}
+
+.nav-side img {
+
+max-width: 50px;
+max-height: 50px;
+
 }
 
 .items{
