@@ -43,7 +43,7 @@ a{
     position: absolute;
     text-align: center;
     height: 50px;
-    left: 50%;
+    left: 45%;
     margin: 0;
     font-size: 2em;
     transform: translateX(-50%);
@@ -62,7 +62,7 @@ a{
 .aside-float{
     text-align: right;
     width: 20%;
-    padding: 10px;
+    padding: 0;
 }
 
 .nav-side{
