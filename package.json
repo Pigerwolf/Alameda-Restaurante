@@ -1,0 +1,19 @@
+{
+  "name": "alameda",
+  "version": "1.0.0",
+  "description": "Menu del Restaurante Alameda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pigerwolf/Alameda-Restaurante.git"
+  },
+  "author": "DevCortex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pigerwolf/Alameda-Restaurante/issues"
+  },
+  "homepage": "https://github.com/Pigerwolf/Alameda-Restaurante#readme"
+}
